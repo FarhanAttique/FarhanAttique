@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farhan Atique</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanattique&label=Profile%20views&color=0e75b6&style=flat" alt="farhanattique" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhanattique" alt="farhanattique" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAxd2JyN3cyN3pudXYwZ3hiOTkzdGg1eXR3emZ5MDZpZDdxd3BjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🔭 I’m currently working on **E-vote by blockchain**
 
 - 🌱 I’m currently learning **blockchain , solidity**
