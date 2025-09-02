@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Atique</h1>
-<h3 align="center">A passionate Developer from Pakistan</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanattique&label=Profile%20views&color=0e75b6&style=flat" alt="farhanattique" /> </p>
 
